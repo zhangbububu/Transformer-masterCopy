@@ -1,0 +1,16 @@
+{
+    "os": "Darwin-19.6.0-x86_64-i386-64bit",
+    "python": "3.7.11",
+    "heartbeatAt": "2022-05-09T14:30:51.859153",
+    "startedAt": "2022-05-09T14:30:45.024959",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "draft.py",
+    "codePath": "draft.py",
+    "host": "MacBook-Pro.lan",
+    "username": "zhangbu",
+    "executable": "/Users/zhangbu/opt/anaconda3/envs/torch/bin/python"
+}
